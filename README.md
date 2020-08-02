@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm [Ariel!](https://arielmagbanua.github.io) 👋
+
+<a href="https://twitter.com/Ariel_Magbanua">
+  <img align="left" alt="Ariel Magbanua | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
 
 <!--
 **arielmagbanua/arielmagbanua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
