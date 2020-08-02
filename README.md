@@ -6,7 +6,11 @@ A passionate, geek, and self-taught software engineer from the Philippines.
   <img align="left" alt="Ariel Magbanua | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
-<br />
+<a href="https://sourcerer.io/arielmagbanua">
+  <img align="left" src="https://sourcerer.io/icons/logo-sharing.svg" height="21px" alt="Sourcerer">
+</a>
+
+<br /><br />
 
 - 🌱 I’m currently learning machine learning, flutter, nodejs.
 - 📫 How to reach me: [ariel@arielmagbanua.com](mailto:ariel@arielmagbanua.com)
