@@ -6,13 +6,15 @@ A passionate, geek, and self-taught software engineer from the Philippines.
   <img align="left" alt="Ariel Magbanua | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
+<br />
+
 - 🌱 I’m currently learning machine learning, flutter, nodejs.
 - 📫 How to reach me: [ariel@arielmagbanua.com](mailto:ariel@arielmagbanua.com)
 - 💬 Ask me about anything [here](https://github.com/arielmagbanua/arielmagbanua/issues)
 
 *NOTE: These are my github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
-![Ariel's github stats](https://github-readme-stats.vercel.app/api?username=arielmagbanua&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark)
+![Ariel's github stats](https://github-readme-stats.vercel.app/api?username=arielmagbanua&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielmagbanua&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
