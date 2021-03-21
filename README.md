@@ -19,8 +19,6 @@ A passionate, geek, and self-taught software engineer from the Philippines.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielmagbanua)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ariel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arielmagbanua)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 *My Github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 **arielmagbanua/arielmagbanua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
