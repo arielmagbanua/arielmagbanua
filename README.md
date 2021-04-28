@@ -9,7 +9,7 @@ A passionate, geek, and self-taught software engineer from the Philippines.
 <br /><br />
 
 - 🔭 I’m currently working on my personal web page.
-- 🌱 I’m currently learning flutter, python, django, and machine learning.
+- 🌱 I’m currently learning flutter, react, nodejs, python, and machine learning.
 - 📫 How to reach me: [ariel@arielmagbanua.com](mailto:ariel@arielmagbanua.com)
 - 💬 Ask me about anything [here](https://github.com/arielmagbanua/arielmagbanua/issues)
 
