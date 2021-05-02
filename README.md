@@ -15,7 +15,7 @@ A passionate, geek, and self-taught software engineer from the Philippines.
 
 *NOTE: These are my github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
-| ![Ariel's github stats](https://github-readme-stats.vercel.app/api?username=arielmagbanua&show_icons=true&include_all_commits=true&count_private=true&theme=dark) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielmagbanua&layout=compact)](https://arielmagbanua.com) |
+| ![Ariel's github stats](https://github-readme-stats.vercel.app/api?username=arielmagbanua&show_icons=true&include_all_commits=true&count_private=true&theme=dark) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielmagbanua)](https://arielmagbanua.com) |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
 
 <!--
