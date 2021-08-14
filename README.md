@@ -16,7 +16,7 @@ A passionate, geek, and self-taught software engineer from the Philippines.
 <h1 align="center">Github Stats</h1> 
 
 <p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielmagbanua&theme=dark)](https://arielmagbanua.com)
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielmagbanua&theme=dark" alt="arielmagbanua"/>
 <p>
 <br>
 <p align="center">
