@@ -20,7 +20,10 @@ A passionate, geek, and self-taught software engineer from the Philippines.
     <td colspan="2">
       Test
     </td>
-    <td></td>
+  </tr>
+  <tr>
+    <td>Foo</td>
+    <td>Bar</td>
   </tr>
 </table>
 
