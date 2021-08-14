@@ -21,11 +21,21 @@ A passionate, geek, and self-taught software engineer from the Philippines.
   </a>
 <p>
 <br>
-<p align="center">
-  ![Ariel's github stats](https://github-readme-stats.vercel.app/api?username=arielmagbanua&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
-<p>
+<div align="center">
+  <span>
+    <a href="https://arielmagbanua.com/">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielmagbanua&theme=dark" alt="arielmagbanua"/>
+    </a>
+  </span>
+  <span>
+    <a href="https://arielmagbanua.com/">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielmagbanua&theme=dark" alt="arielmagbanua"/>
+    </a>
+  </span>
+<div>
 <br>
 <p align="center">
+  ![Ariel's github stats](https://github-readme-stats.vercel.app/api?username=arielmagbanua&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arielmagbanua&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <p>
 
