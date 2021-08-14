@@ -15,6 +15,14 @@ A passionate, geek, and self-taught software engineer from the Philippines.
 
 # Github Stats
 
+<spam>
+  ![Ariel's github stats](https://github-readme-stats.vercel.app/api?username=arielmagbanua&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
+</span>
+
+<span>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielmagbanua&theme=dark)](https://arielmagbanua.com)
+</span>
+
 | ![Ariel's github stats](https://github-readme-stats.vercel.app/api?username=arielmagbanua&show_icons=true&include_all_commits=true&count_private=true&theme=dark) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielmagbanua&theme=dark)](https://arielmagbanua.com) |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
 
