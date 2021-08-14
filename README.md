@@ -1,14 +1,6 @@
-# Hi there, I'm [Ariel!](https://arielmagbanua.github.io) 👋
+# Hi there, I'm [Ariel!](https://arielmagbanua.com/) 👋
 
-A passionate, geek, and self-taught software engineer from the Philippines.
-
-<a href="https://twitter.com/Ariel_Magbanua">
-  <img align="left" alt="Ariel Magbanua | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-
-<br><br>
-- 📫 How to reach me: [ariel@arielmagbanua.com](mailto:ariel@arielmagbanua.com)
-- 💬 Ask me about anything [here](https://github.com/arielmagbanua/arielmagbanua/issues)
+A software engineer who enjoys thinking solutions to problems, who finds leisure in coding, and passionate and curious about machine learning and artificial intelligence. 
 
 <h1 align="center">Github Stats</h1> 
 
