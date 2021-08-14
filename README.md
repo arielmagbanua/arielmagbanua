@@ -12,7 +12,7 @@ A software engineer who enjoys thinking solutions to problems, who finds leisure
 <br>
 <div align="center">
   <a href="https://arielmagbanua.com/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=arielmagbanua&show_icons=true&include_all_commits=true&count_private=true&theme=dark&layout=compact" alt="arielmagbanua"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=arielmagbanua&show_icons=true&include_all_commits=true&count_private=true&theme=dark" alt="arielmagbanua"/>
   </a>
 <div>
 <br>
