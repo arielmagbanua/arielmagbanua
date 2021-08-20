@@ -1,4 +1,6 @@
-# Hi there, I'm [Ariel!](https://arielmagbanua.com/) 👋
+# Hi there 👋, I'm [Ariel!](https://arielmagbanua.com/)
+
+![](https://komarev.com/ghpvc/?username=arielmagbanua&color=green)
 
 A software engineer who enjoys thinking solutions to problems, who finds leisure in coding, and passionate and curious about machine learning and artificial intelligence. 
 
