@@ -8,7 +8,3 @@ A software engineer who enjoys thinking solutions to problems, who finds leisure
 <p>
     <img align="right" style="max-width: 51%"; width="51%;" src="https://github-readme-stats.vercel.app/api?username=arielmagbanua&show_icons=true&include_all_commits=true&count_private=true&theme=dark&cache_seconds=1800" alt="arielmagbanua"/>
 </p>
-
-
-<!-- replace x.x.x with actual version -->
-<script src="https://unpkg.com/@codersrank/summary@arielmagbanua/codersrank-summary.min.js"></script>
