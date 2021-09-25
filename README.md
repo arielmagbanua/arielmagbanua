@@ -10,3 +10,5 @@ A software engineer who enjoys thinking solutions to problems, who finds leisure
 </p>
 
 
+<!-- replace x.x.x with actual version -->
+<script src="https://unpkg.com/@codersrank/summary@arielmagbanua/codersrank-summary.min.js"></script>
