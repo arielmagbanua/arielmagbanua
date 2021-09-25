@@ -9,8 +9,9 @@ A software engineer who enjoys thinking solutions to problems, who finds leisure
     <img align="right" style="max-width: 51%"; width="51%;" src="https://github-readme-stats.vercel.app/api?username=arielmagbanua&show_icons=true&include_all_commits=true&count_private=true&theme=dark&cache_seconds=1800" alt="arielmagbanua"/>
 </p>
 
+<br>
 <p>
     <img
-        src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=arielmagbanua&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+        src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=arielmagbanua&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:5px"
     />
 </p>
