@@ -4,5 +4,5 @@ A software engineer who enjoys thinking solutions to problems, who finds leisure
 
 | Top Languages  | Github Stats |
 | ------------- | ------------- |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielmagbanua&layout=compact&theme=dark)](https://github.com/arielmagbanua/github-readme-stats)  | ![Ariel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arielmagbanua&show_icons=true&include_all_commits=true&count_private=true&theme=dark)  |
+| [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arielmagbanua&layout=compact&theme=dark&hide_title=true)](https://github.com/arielmagbanua) | ![Ariel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arielmagbanua&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_title=true) |
 
