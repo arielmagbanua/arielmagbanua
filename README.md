@@ -2,6 +2,6 @@
 
 A software engineer who enjoys thinking solutions to problems, who finds leisure in coding, and passionate and curious about machine learning and artificial intelligence.
 
-| Top Languages                                                                | Github Stats                                   |
-| ---------------------------------------------------------------------------- | ---------------------------------------------- |
-| [![Top Languages](./images/languages.svg)](https://github.com/arielmagbanua) | ![Ariel's GitHub Stats](./images/overview.svg) |
+| Top Languages                                                                                                                                                                                         | Github Stats                                                                                                                                                                                        |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Top Languages](https://raw.githubusercontent.com/arielmagbanua/github-stats/da22ebf42829b2c477f7df83b9194565fdbc8314/generated/languages.svg#gh-dark-mode-only)](https://github.com/arielmagbanua) | [![Github Stats](https://raw.githubusercontent.com/arielmagbanua/github-stats/da22ebf42829b2c477f7df83b9194565fdbc8314/generated/overview.svg#gh-dark-mode-only)](https://github.com/arielmagbanua) |
