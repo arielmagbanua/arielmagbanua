@@ -9,10 +9,11 @@ A software engineer who enjoys thinking solutions to problems, who finds leisure
   </tr>
   <tr>
     <td>
-      [![Top Languages](https://raw.githubusercontent.com/arielmagbanua/github-stats/refs/heads/my-stats/generated/languages.svg#gh-dark-mode-only)](https://github.com/arielmagbanua)
+      <img src="https://raw.githubusercontent.com/arielmagbanua/github-stats/refs/heads/my-stats/generated/languages.svg#gh-dark-mode-only" alt="Top Languages" style="max-width:100%;">
     </td>
     <td>
-      [![Github Stats](https://raw.githubusercontent.com/arielmagbanua/github-stats/refs/heads/my-stats/generated/overview.svg#gh-dark-mode-only)](https://github.com/arielmagbanua)
+      <img src="https://raw.githubusercontent.com/arielmagbanua/github-stats/refs/heads/my-stats/generated/overview.svg#gh-dark-mode-only" alt="Github Stats" style="max-width:100%;">
     </td>
+
   </tr>
 </table>
