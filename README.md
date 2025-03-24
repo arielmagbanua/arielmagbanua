@@ -19,6 +19,15 @@ A software engineer who enjoys thinking solutions to problems, who finds leisure
   </table>
 </div>
 
-<p align="center">
-  <img src="https://stackoverflow-badge.herokuapp.com/stackoverflow?username=2076848&period=year&mini=false" alt="StackOverflow Stats" width="300"/>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <th>StackOverflow Reputations and Badges</th>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://stackoverflow-badge.herokuapp.com/stackoverflow?username=2076848&period=year&mini=false" alt="StackOverflow Stats" width="max-width:100%;"/>
+      </td>
+    </tr>
+  </table>
+</div>
