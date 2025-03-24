@@ -2,7 +2,7 @@
 
 A software engineer who enjoys thinking solutions to problems, who finds leisure in coding, and passionate and curious about machine learning and artificial intelligence.
 
-<p align="center">
+<div align="center">
   <table style="width:100%; border-collapse: collapse;">
     <tr>
       <th>Top Languages</th>
@@ -17,7 +17,7 @@ A software engineer who enjoys thinking solutions to problems, who finds leisure
       </td>
     </tr>
   </table>
-</p>
+</div>
 
 <p align="center">
   <img src="https://stackoverflow-badge.herokuapp.com/stackoverflow?username=2076848&period=year&mini=false" alt="StackOverflow Stats" width="300"/>
