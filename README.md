@@ -7,7 +7,6 @@ A software engineer who enjoys thinking solutions to problems, who finds leisure
     <tr>
       <th>Top Languages</th>
       <th>Github Stats</th>
-      <th>StackOverflow</th>
     </tr>
     <tr>
       <td>
@@ -16,9 +15,10 @@ A software engineer who enjoys thinking solutions to problems, who finds leisure
       <td>
         <img src="https://raw.githubusercontent.com/arielmagbanua/github-stats/refs/heads/my-stats/generated/overview.svg#gh-dark-mode-only" alt="Github Stats" style="max-width:100%;">
       </td>
-      <td>
-        <img src="https://stackoverflow-badge.herokuapp.com/stackoverflow?username=2076848&period=year&mini=false" alt="StackOverflow Stats" style="max-width:100%;">
-      </td>
     </tr>
   </table>
 </div>
+
+<p align="center">
+  <img src="https://stackoverflow-badge.herokuapp.com/stackoverflow?username=2076848&period=year&mini=false" alt="StackOverflow Stats" width="300"/>
+</p>
