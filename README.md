@@ -2,18 +2,19 @@
 
 A software engineer who enjoys thinking solutions to problems, who finds leisure in coding, and passionate and curious about machine learning and artificial intelligence.
 
-<table style="width:100%">
-  <tr>
-    <th>Top Languages</th>
-    <th>Github Stats</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/arielmagbanua/github-stats/refs/heads/my-stats/generated/languages.svg#gh-dark-mode-only" alt="Top Languages" style="max-width:100%;">
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/arielmagbanua/github-stats/refs/heads/my-stats/generated/overview.svg#gh-dark-mode-only" alt="Github Stats" style="max-width:100%;">
-    </td>
-
-  </tr>
-</table>
+<div style="width:100%; overflow-x:auto;">
+  <table style="width:100%; border-collapse: collapse;">
+    <tr>
+      <th>Top Languages</th>
+      <th>Github Stats</th>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/arielmagbanua/github-stats/refs/heads/my-stats/generated/languages.svg#gh-dark-mode-only" alt="Top Languages" style="max-width:100%;">
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/arielmagbanua/github-stats/refs/heads/my-stats/generated/overview.svg#gh-dark-mode-only" alt="Github Stats" style="max-width:100%;">
+      </td>
+    </tr>
+  </table>
+</div>
