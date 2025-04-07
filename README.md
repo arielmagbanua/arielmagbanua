@@ -26,7 +26,9 @@ A software engineer who enjoys thinking solutions to problems, who finds leisure
     </tr>
     <tr>
       <td>
-        <img src="https://stackoverflow-badge.herokuapp.com/stackoverflow?username=2076848&period=year&mini=false" alt="StackOverflow Stats" width="max-width:100%;"/>
+        <a href="https://stackoverflow.com/users/2076848/ariel-magbanua">
+          <img src="https://stackoverflow-badge.herokuapp.com/stackoverflow?username=2076848&period=year&mini=false" alt="StackOverflow Stats" width="max-width:100%;"/>
+        </a>
       </td>
     </tr>
   </table>
