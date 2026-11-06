@@ -10,7 +10,7 @@ A software engineer who enjoys thinking solutions to problems, who finds leisure
     </tr>
     <tr>
       <td>
-        <img src="https://github.com/arielmagbanua/github-stats/blob/generated/languages.svg" alt="Top Languages" style="max-width:100%;">
+        <img src="https://github.com/arielmagbanua/github-stats/blob/generated/languages.svg#gh-dark-mode-only" alt="Top Languages" style="max-width:100%;">
       </td>
       <td>
         <img src="https://github.com/arielmagbanua/github-stats/blob/generated/overview.svg#gh-dark-mode-only" alt="Github Stats" style="max-width:100%;">
